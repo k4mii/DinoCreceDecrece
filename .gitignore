@@ -1,0 +1,21 @@
+# Ignorar la carpeta de compilación de Maven
+/target/
+
+# Ignorar archivos de NetBeans
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+
+
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+.DS_Store
+Thumbs.db
